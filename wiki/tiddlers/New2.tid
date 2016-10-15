@@ -7,4 +7,4 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/).
 Use the toolbar above, or click the **?** button for formatting help.
 
 
-Testinf images with this  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Testinf images with this  [Img[https://octodex.github.com/images/yaktocat.png]]
