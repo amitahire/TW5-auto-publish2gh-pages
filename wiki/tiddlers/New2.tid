@@ -2,4 +2,9 @@ title: New2
 creator: AA
 type: text/vnd.tiddlywiki
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/).
+
+Use the toolbar above, or click the **?** button for formatting help.
+
+
+Testinf images with this  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
